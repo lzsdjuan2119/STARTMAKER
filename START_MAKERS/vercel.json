@@ -5,6 +5,9 @@
     }
   },
   "routes": [
-    { "src": "/(.*)", "dest": "/publico/assets/index.php" }
+    { 
+      "src": "/(.*)", 
+      "dest": "/START_MAKERS/publico/index.php" 
+    }
   ]
 }
